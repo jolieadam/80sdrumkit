@@ -66,3 +66,5 @@
     <audio id="j" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/2538470/snare.wav"></audio>
     <audio id="k" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/2538470/tom.wav"></audio>
     <audio id="l" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/2538470/tink.wav"></audio>
+    
+    <!-- JS code -->
